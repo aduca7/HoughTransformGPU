@@ -11,6 +11,6 @@ It is meant to be run on Google Colab, I have not tested it on any other machine
 
 # Presentation
 
-If you would like to see my presentation it is in the powerpoint file. 
+If you would like to see my presentation it is in the pdf file. 
 It has a much more in depth description of the project.
 
